@@ -8,12 +8,13 @@
         <docs>http://www.rssboard.org/rss-specification</docs>
         <generator>python-feedgen</generator>
         <language>es</language>
-        <lastBuildDate>Tue, 19 Apr 2022 19:31:30 +0000</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 16:55:27 +0000</lastBuildDate>
         <item>
             <title>La batalla del Donbass ha comenzado</title>
             <description>Las tropas del Kremlin recrudecen sus ataques aéreos al este del país, pero no consiguen
                 apoderarse de Mariúpol
             </description>
+            <guid isPermaLink="false">5</guid>
             <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
         </item>
         <item>
@@ -21,6 +22,7 @@
             <description>El ministro de Exteriores ruso, Sergei Lavrov, confirmó este martes el comienzo de una nueva
                 fase de la guerra con Ucrania en la región del Donbás, en el este del país.
             </description>
+            <guid isPermaLink="false">4</guid>
             <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
         </item>
         <item>
@@ -29,6 +31,7 @@
                 defenderemos", ha avisado. Mientras, el Kremlin ha dado un nuevo ultimátum a las fuerzas ucranianas que
                 aún resisten en la asediada Mariúpol
             </description>
+            <guid isPermaLink="false">3</guid>
             <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
         </item>
         <item>
@@ -36,6 +39,7 @@
             <description>La resistencia en el "Stalingrado de Ucrania" lastra la ofensiva de Vladimir Putin en el
                 Donbas
             </description>
+            <guid isPermaLink="false">2</guid>
             <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
         </item>
         <item>
@@ -43,6 +47,7 @@
             <description>Las fuerzas ucranianas aseguran resistir aún en Mariupol gracias a la red de túneles de la era
                 soviética
             </description>
+            <guid isPermaLink="false">1</guid>
             <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
         </item>
     </channel>
