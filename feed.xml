@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Noticias Rafael Alberti</title>
+        <link>https://www.w3schools.com</link>
+        <description>Los medios para conocer mas sobre esta guerra</description>
+        <atom:link href="https://www.w3schools.com" rel="self"/>
+        <docs>http://www.rssboard.org/rss-specification</docs>
+        <generator>python-feedgen</generator>
+        <language>es</language>
+        <lastBuildDate>Tue, 19 Apr 2022 19:31:30 +0000</lastBuildDate>
+        <item>
+            <title>La batalla del Donbass ha comenzado</title>
+            <description>Las tropas del Kremlin recrudecen sus ataques aéreos al este del país, pero no consiguen
+                apoderarse de Mariúpol
+            </description>
+            <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
+        </item>
+        <item>
+            <title>Rusia confirma el inicio de una nueva gran ofensiva en el este de Ucrania</title>
+            <description>El ministro de Exteriores ruso, Sergei Lavrov, confirmó este martes el comienzo de una nueva
+                fase de la guerra con Ucrania en la región del Donbás, en el este del país.
+            </description>
+            <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
+        </item>
+        <item>
+            <title>Ucrania resiste a la ofensiva rusa en el Donbás y recupera Marianka</title>
+            <description>Zelenski ha advertido de que sus compatriotas no se rendirán en el este. "Lucharemos. Nos
+                defenderemos", ha avisado. Mientras, el Kremlin ha dado un nuevo ultimátum a las fuerzas ucranianas que
+                aún resisten en la asediada Mariúpol
+            </description>
+            <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
+        </item>
+        <item>
+            <title>Los rusos ya han perdido a miles de soldados en Mariupol y perderán miles más</title>
+            <description>La resistencia en el "Stalingrado de Ucrania" lastra la ofensiva de Vladimir Putin en el
+                Donbas
+            </description>
+            <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
+        </item>
+        <item>
+            <title>Rusia desata un "infierno" de artillería en la ofensiva en el Donbás</title>
+            <description>Las fuerzas ucranianas aseguran resistir aún en Mariupol gracias a la red de túneles de la era
+                soviética
+            </description>
+            <pubDate>Tue, 19 Apr 2022 13:26:58 +0100</pubDate>
+        </item>
+    </channel>
+</rss>
